@@ -1,0 +1,17 @@
+bin/
+obj/
+*.exe
+*.dll
+
+.vs/
+*.user
+*.suo
+
+*.log
+*.cache
+
+data/
+
+*.db
+*.DS_Store
+Thumbs.db
