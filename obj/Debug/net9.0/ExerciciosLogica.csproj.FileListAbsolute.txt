@@ -1,0 +1,17 @@
+C:\Users\lebtu\ExerciciosLogica\bin\Debug\net9.0\ExerciciosLogica.exe
+C:\Users\lebtu\ExerciciosLogica\bin\Debug\net9.0\ExerciciosLogica.deps.json
+C:\Users\lebtu\ExerciciosLogica\bin\Debug\net9.0\ExerciciosLogica.runtimeconfig.json
+C:\Users\lebtu\ExerciciosLogica\bin\Debug\net9.0\ExerciciosLogica.dll
+C:\Users\lebtu\ExerciciosLogica\bin\Debug\net9.0\ExerciciosLogica.pdb
+C:\Users\lebtu\ExerciciosLogica\obj\Debug\net9.0\ExerciciosLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lebtu\ExerciciosLogica\obj\Debug\net9.0\ExerciciosLogica.AssemblyInfoInputs.cache
+C:\Users\lebtu\ExerciciosLogica\obj\Debug\net9.0\ExerciciosLogica.AssemblyInfo.cs
+C:\Users\lebtu\ExerciciosLogica\obj\Debug\net9.0\ExerciciosLogica.csproj.CoreCompileInputs.cache
+C:\Users\lebtu\ExerciciosLogica\obj\Debug\net9.0\ExerciciosLogica.dll
+C:\Users\lebtu\ExerciciosLogica\obj\Debug\net9.0\refint\ExerciciosLogica.dll
+C:\Users\lebtu\ExerciciosLogica\obj\Debug\net9.0\ExerciciosLogica.pdb
+C:\Users\lebtu\ExerciciosLogica\obj\Debug\net9.0\ExerciciosLogica.genruntimeconfig.cache
+C:\Users\lebtu\ExerciciosLogica\obj\Debug\net9.0\ref\ExerciciosLogica.dll
+C:\Users\lebtu\ExerciciosLogica\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\lebtu\ExerciciosLogica\obj\Debug\net9.0\ExerciciosLogica.csproj.AssemblyReference.cache
+C:\Users\lebtu\ExerciciosLogica\obj\Debug\net9.0\Exercici.C0E2C28C.Up2Date
